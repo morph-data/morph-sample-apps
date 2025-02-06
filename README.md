@@ -12,8 +12,8 @@ Whether you are new to Morph or an experienced user, these examples will help yo
 
 - [Overview](#overview)
 - [AI Apps / Data Apps](#ai-apps-data-apps)
-  - [App 1: [RBAC Langchain App]](#rbac-langchain-app)
-  - [App 2: [SQL Agent App]](#sql-agent-app)
+  - [RBAC Langchain App](#rbac-langchain-app)
+  - [SQL Agent App](#sql-agent-app)
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ The Morph framework provides a flexible and powerful foundation for building AI 
 
 ## AI Apps / Data Apps
 
-### App 1: **[RBAC Langchain App]**
+### **[RBAC Langchain App]**
 - **Description:**
 
     This app demonstrates a Role-Based Access Control (RBAC) system implemented using LangChain for AI workflow and Morph for frontend and RBAC.
@@ -41,7 +41,7 @@ The Morph framework provides a flexible and powerful foundation for building AI 
 
 ---
 
-### App 2: **[SQL Agent App]**
+### **[SQL Agent App]**
 - **Description:**
 
     SQL Agent answers the user's question. It generates a SQL query from the user's question and executes the query to retrieve the result.
