@@ -34,7 +34,8 @@ The Morph framework provides a flexible and powerful foundation for building AI 
 - **Installation & Usage:**
   Please set OPENAI_API_KEY in the `.env` file.
 - **Files**
-    - [rbac_langchain_app/](./rbac_langchain_app/)
+    - [src/pages/rbac_langchain_app/index.mdx](./src/pages/rbac_langchain_app/index.mdx)
+    - [src/python/rbac_langchain_app/rbac_langchain.py](./src/python/rbac_langchain_app/rbac_langchain.py)
 - **Related Articles:**
   - [Create a chat app using Langchain](https://www.morph-data.io/tools/snippets/item/create-a-chat-app-using-langchain)
 
@@ -50,7 +51,10 @@ The Morph framework provides a flexible and powerful foundation for building AI 
 - **Installation & Usage:**
     - Please set OPENAI_API_KEY in the `.env` file.
 - **Files**
-    - [sql_agent_app/](./sql_agent_app/)
+    - [src/pages/sql_agent_app/index.mdx](./src/pages/sql_agent_app/index.mdx)
+    - [src/python/sql_agent_app/sql_agent.py](./src/python/sql_agent_app/sql_agent.py)
+    - [src/sql/sql_agent_app.sql](./src/sql/sql_agent_app.sql)
+    - [data/Traffic_Orders_Demo_Data.csv](./data/Traffic_Orders_Demo_Data.csv)
 - **Related Articles:**
   - [Text to SQL: makes it easy to communicate with your database](https://www.morph-data.io/tools/snippets/item/text-to-sql-makes-it-easy-to-communicate-with-your-database)
 ---
