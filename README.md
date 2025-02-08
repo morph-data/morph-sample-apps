@@ -2,7 +2,7 @@
 
 Welcome to the **Morph Sample AI Apps / Data Apps Collection** repository!
 
-This repository is dedicated to showcasing a variety of sample applications built with the [Morph framework](https://github.com/morph-data/morph).
+This repository is dedicated to showcasing a variety of sample applications built with the [Morph](https://github.com/morph-data/morph).
 
 Whether you are new to Morph or an experienced user, these examples will help you understand how to leverage the framework to build powerful and efficient applications.
 
