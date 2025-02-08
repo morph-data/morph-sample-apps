@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "browser_use_e2e_test_app"
+version = "0.1.0"
+description = ""
+authors = ["shibatanaoto <naoto.shibata510@gmail.com>"]
+readme = "README.md"
+packages = [
+    { include = "src" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+morph-data = "0.1.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
