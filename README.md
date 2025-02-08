@@ -14,12 +14,12 @@ Whether you are new to Morph or an experienced user, these examples will help yo
 - [AI Apps / Data Apps](#ai-apps-data-apps)
   - [RBAC Langchain App](#rbac-langchain-app)
   - [SQL Agent App](#sql-agent-app)
+- [How to contribute](#how-to-contribute)
 ---
 
 ## Overview
 
 The Morph framework provides a flexible and powerful foundation for building AI Apps and Data Apps. This repository contains a curated set of sample applications that demonstrate various features and use cases of Morph.
-
 ---
 
 ## AI Apps / Data Apps
@@ -54,3 +54,31 @@ The Morph framework provides a flexible and powerful foundation for building AI 
 - **Related Articles:**
   - [Text to SQL: makes it easy to communicate with your database](https://www.morph-data.io/tools/snippets/item/text-to-sql-makes-it-easy-to-communicate-with-your-database)
 ---
+
+## How to contribute
+
+If you have any idea for an app, please create a new branch and send a pull request.
+The steps are as follows:
+
+1. Create a new app using the `morph new` command from the root directory:
+   ```bash
+   morph new my-awesome-app
+   ```
+
+2. Add your app description to this README.md under the "AI Apps / Data Apps" section following this format:
+   ```markdown
+   ### **Your App Name**
+   - **Description:**
+       Brief description of what your app does and its key features
+
+   - **Installation & Usage:**
+       Any specific setup instructions
+
+   - **Files**
+       - [your-app-directory/](./your-app-directory/)
+
+   - **Related Articles:**
+     - [Article Title](article-url)
+   ```
+
+3. Create a pull request to the main branch with your new app!
